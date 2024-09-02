@@ -1,6 +1,6 @@
 # AWS CDK Github OpenID Connect
 
-This project is inspirited from the [Original](https://github.com/aripalo/aws-cdk-github-oidc)
+This project is inspired from the [Original](https://github.com/aripalo/aws-cdk-github-oidc)
 
 ![cdk-support](https://img.shields.io/badge/cdk-%20typescript%20|%20python%20-informational "TypeScript | Python")
 [![release](https://github.com/aripalo/aws-cdk-github-oidc/actions/workflows/release.yml/badge.svg)](https://github.com/aripalo/aws-cdk-github-oidc/actions/workflows/release.yml)
