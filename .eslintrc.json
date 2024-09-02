@@ -117,7 +117,17 @@
       "consistent"
     ],
     "@typescript-eslint/member-delimiter-style": [
-      "error"
+      "error",
+      {
+        "multiline": {
+          "delimiter": "semi",
+          "requireLast": true
+        },
+        "singleline": {
+          "delimiter": "semi",
+          "requireLast": false
+        }
+      }
     ],
     "semi": [
       "error",

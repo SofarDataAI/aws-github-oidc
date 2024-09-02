@@ -6,32 +6,32 @@
     },
     {
       "name": "@types/jest",
-      "version": "^27",
+      "version": "^29.5.12",
       "type": "build"
     },
     {
       "name": "@types/node",
-      "version": "^16",
+      "version": "^20.16.3",
       "type": "build"
     },
     {
       "name": "@typescript-eslint/eslint-plugin",
-      "version": "^5",
+      "version": "^8.3.0",
       "type": "build"
     },
     {
       "name": "@typescript-eslint/parser",
-      "version": "^5",
+      "version": "^8.3.0",
       "type": "build"
     },
     {
       "name": "aws-cdk-lib",
-      "version": "2.89.0",
+      "version": "2.155.0",
       "type": "build"
     },
     {
       "name": "constructs",
-      "version": "10.0.0",
+      "version": "10.3.0",
       "type": "build"
     },
     {
@@ -75,17 +75,17 @@
     },
     {
       "name": "jsii-rosetta",
-      "version": "1.x",
+      "version": "5.5.4",
       "type": "build"
     },
     {
       "name": "jsii",
-      "version": "1.x",
+      "version": "5.5.2",
       "type": "build"
     },
     {
       "name": "npm-check-updates",
-      "version": "^16",
+      "version": "^17.1.1",
       "type": "build"
     },
     {
@@ -94,12 +94,12 @@
     },
     {
       "name": "standard-version",
-      "version": "^9",
+      "version": "^9.5.0",
       "type": "build"
     },
     {
       "name": "ts-jest",
-      "version": "^27",
+      "version": "^29.2.5",
       "type": "build"
     },
     {
